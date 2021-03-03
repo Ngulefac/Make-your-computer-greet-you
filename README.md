@@ -6,5 +6,5 @@ It is very possible such that when turning on your computer, you get a welcome v
 Every startup ...your computer will welcome you
 
 ```
-C:\Users\Ngulefac Theophilus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+C:\Users\[user name]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
