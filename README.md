@@ -3,3 +3,6 @@ It is very possible such that when turning on your computer, you get a welcome v
 
 #Firstly : Place this file(Welcome.vbs) [you can rename this file] in this directory
 Every startup ...your computer will welcome you
+```
+C:\Users\Ngulefac Theophilus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+```
